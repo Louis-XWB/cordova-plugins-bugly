@@ -8,11 +8,19 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louis-XWB/cordova-plugins-bugly.git"
+  },
   "keywords": [
     "cordova",
     "bugly",
     "cordova-android"
   ],
+  "bugs": {
+    "url": "https://github.com/Louis-XWB/cordova-plugins-bugly/issues"
+  },
   "author": "novar",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/Louis-XWB/cordova-plugins-bugly"
 }
